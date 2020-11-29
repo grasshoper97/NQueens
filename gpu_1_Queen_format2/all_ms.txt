@@ -1,0 +1,224 @@
+from file: ../data_format2/100.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.299392 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       100	        74	         0
+[0mfrom file: ../data_format2/200.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.009280 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       200	       110	         0
+[0mfrom file: ../data_format2/300.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.988000 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       300	       172	         1
+[0mfrom file: ../data_format2/400.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.012288 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       400	       290	         1
+[0mfrom file: ../data_format2/500.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.297312 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       500	       349	         1
+[0mfrom file: ../data_format2/600.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.000800 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       600	       378	         1
+[0mfrom file: ../data_format2/700.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.987552 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       700	       483	         1
+[0mfrom file: ../data_format2/800.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.988800 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       800	       538	         1
+[0mfrom file: ../data_format2/900.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.990656 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m       900	       590	         1
+[0m
+from file: ../data_format2/1000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.310912 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      1000	       647	         1
+[0mfrom file: ../data_format2/2000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.985568 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      2000	      1309	         2
+[0mfrom file: ../data_format2/3000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.943904 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      3000	      1964	         2
+[0mfrom file: ../data_format2/4000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.962496 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      4000	      2709	         3
+[0mfrom file: ../data_format2/5000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.973152 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      5000	      3378	         4
+[0mfrom file: ../data_format2/6000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.979648 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      6000	      3958	         4
+[0mfrom file: ../data_format2/7000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.918720 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      7000	      4693	         3
+[0mfrom file: ../data_format2/8000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.229088 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      8000	      5319	         5
+[0mfrom file: ../data_format2/9000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.965120 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m      9000	      5853	         6
+[0mfrom file: ../data_format2/10000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.923360 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     10000	      6717	         5
+[0mfrom file: ../data_format2/20000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.967456 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     20000	     13443	        14
+[0mfrom file: ../data_format2/30000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.946336 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     30000	     20200	        17
+[0mfrom file: ../data_format2/40000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.962400 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     40000	     26666	        29
+[0mfrom file: ../data_format2/50000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.921888 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     50000	     33426	        27
+[0mfrom file: ../data_format2/60000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.946304 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     60000	     39755	        47
+[0mfrom file: ../data_format2/70000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.967360 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     70000	     46784	        75
+[0mfrom file: ../data_format2/80000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.958272 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     80000	     53447	        96
+[0mfrom file: ../data_format2/90000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.976448 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m     90000	     60471	       118
+[0mfrom file: ../data_format2/100000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.376224 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    100000	     66462	       140
+[0mfrom file: ../data_format2/200000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.978848 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    200000	    133469	       485
+[0mfrom file: ../data_format2/300000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.971552 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    300000	    200255	       952
+[0mfrom file: ../data_format2/400000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.958624 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    400000	    267182	      1569
+[0mfrom file: ../data_format2/500000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.255040 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    500000	    332762	      2370
+[0mfrom file: ../data_format2/600000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.236896 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    600000	    399714	      3265
+[0mfrom file: ../data_format2/700000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.262720 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    700000	    466866	      4454
+[0mfrom file: ../data_format2/800000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.956992 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    800000	    534213	      5825
+[0mfrom file: ../data_format2/900000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.977536 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    900000	    600188	      7341
+[0mfrom file: ../data_format2/1000000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       0.965152 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m   1000000	    666169	      9034
+[0m

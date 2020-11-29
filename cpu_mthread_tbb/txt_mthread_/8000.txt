@@ -1,0 +1,16 @@
+2019年 06月 04日 星期二 09:40:10 CST
+from file: ../data_format2_zero/.txt  read 1 rows.use 20 cores 
+文件不能打开
+2019年 06月 04日 星期二 10:55:48 CST
+from file: ../data_format2_zero/.txt  read 1 rows.use 20 cores 
+文件不能打开
+2019年 06月 04日 星期二 11:01:38 CST
+from file: ../data_format2_rand/.txt  read 1 rows.use 20 cores 
+文件不能打开
+2019年 06月 04日 星期二 11:02:47 CST
+from file: ../data_format2_rand/8000.txt  read 1 rows.use 20 cores 
+      Type	     Queen	 conflicts	  time(ms)
+     -----	     -----	 ---------	  --------
+ SingleCPU	      8000	      5319	       228
+20 threads ready to race... 
+ MulThread	      8000	      5319	       284

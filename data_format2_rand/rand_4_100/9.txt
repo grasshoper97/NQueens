@@ -1,0 +1,1 @@
+9   Queen   18   Conflicts   1 6 3 4 5 2 7 8 0 

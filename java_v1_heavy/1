@@ -1,0 +1,2 @@
+usage:  exename  filename repeat thres
+e.g. :  Count  100.txt  10 5

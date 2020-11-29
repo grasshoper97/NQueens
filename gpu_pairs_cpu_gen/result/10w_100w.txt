@@ -1,0 +1,74 @@
+2019年 02月 15日 星期五 11:58:41 CST
+from file: ../data_format1/100000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.321280 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/200000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.020544 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/300000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.346528 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+malloc h_pairs  error 
+ifrom file: ../data_format1/400000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.401888 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/500000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.308672 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/600000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.331360 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+malloc h_pairs  error 
+ifrom file: ../data_format1/700000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     0.998272 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/800000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.013792 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/900000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.002112 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+malloc h_pairs  error 
+ifrom file: ../data_format1/1000000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.307648 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+malloc h_pairs  error 
+i
+malloc h_pairs  error 
+ilaunch successed! ( code= no error)!
+./run10w_100w.sh: 行 2: 30155 段错误               (核心已转储) ./gpu_pairs ../data_format1/$N.txt 1 >> result/10w_100w.txt
+launch successed! ( code= no error)!
+./run10w_100w.sh: 行 2: 30179 段错误               (核心已转储) ./gpu_pairs ../data_format1/$N.txt 1 >> result/10w_100w.txt
+launch successed! ( code= no error)!
+launch successed! ( code= no error)!
+./run10w_100w.sh: 行 2: 30209 段错误               (核心已转储) ./gpu_pairs ../data_format1/$N.txt 1 >> result/10w_100w.txt
+launch successed! ( code= no error)!
+./run10w_100w.sh: 行 2: 30225 段错误               (核心已转储) ./gpu_pairs ../data_format1/$N.txt 1 >> result/10w_100w.txt
+launch successed! ( code= no error)!
+launch successed! ( code= no error)!
+./run10w_100w.sh: 行 2: 30257 段错误               (核心已转储) ./gpu_pairs ../data_format1/$N.txt 1 >> result/10w_100w.txt
+launch successed! ( code= no error)!
+./run10w_100w.sh: 行 2: 30270 段错误               (核心已转储) ./gpu_pairs ../data_format1/$N.txt 1 >> result/10w_100w.txt
+launch successed! ( code= no error)!
+launch successed! ( code= no error)!
+

@@ -1,0 +1,22 @@
+总用量 41M
+drwxrwxr-x  2 sx302 sx302 4.0K 2月  14 17:33 ./
+drwxrwxr-x 14 sx302 sx302 4.0K 2月  14 17:30 ../
+-rw-rw-r--  1 sx302 sx302 1.4K 12月  4 15:34 4_29_step1.txt
+-rw-rw-r--  1 sx302 sx302 1.4K 12月  4 15:34 4_100_step1.txt
+-rw-rw-r--  1 sx302 sx302 1.9M 11月 14 15:50 4_1k_step1.txt
+-rw-rw-r--  1 sx302 sx302  17K 12月 14 11:31 100_900_step100.txt
+-rw-rw-r--  1 sx302 sx302 211K 12月  3 15:02 1k_9k_step1k.txt
+-rw-rw-r--  1 sx302 sx302 2.5M 11月 15 18:15 1w_9w_step1w.txt
+-rw-rw-r--  1 sx302 sx302 576K 11月 21 14:12 100000.txt
+-rw-rw-r--  1 sx302 sx302 1.3M 11月 21 14:12 200000.txt
+-rw-rw-r--  1 sx302 sx302 1.9M 11月 21 14:12 300000.txt
+-rw-rw-r--  1 sx302 sx302 3.0K 12月  4 15:34 30_100_step5.txt
+-rw-rw-r--  1 sx302 sx302 2.6M 12月  3 15:00 400000.txt
+-rw-rw-r--  1 sx302 sx302 3.3M 12月  3 15:00 500000.txt
+-rw-rw-r--  1 sx302 sx302 3.9M 12月  3 15:00 600000.txt
+-rw-rw-r--  1 sx302 sx302 4.6M 12月  3 15:00 700000.txt
+-rw-rw-r--  1 sx302 sx302 5.3M 12月  3 15:00 800000.txt
+-rw-rw-r--  1 sx302 sx302 6.0M 12月  3 15:00 900000.txt
+-rw-rw-r--  1 sx302 sx302 6.6M 12月  3 15:00 1000000.txt
+-rw-rw-r--  1 sx302 sx302    0 2月  14 17:33 readme.txt
+-rw-rw-r--  1 sx302 sx302  189 12月  3 10:42 wrong4_10_step1.txt

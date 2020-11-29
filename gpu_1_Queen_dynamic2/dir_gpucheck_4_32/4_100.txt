@@ -1,0 +1,18 @@
+from file: ../data_format1/wrong4_10_step1.txt  read 7 rows. 
+	GPU is OK!
+Queen       conflicts        time(ms)
+	-----       ---------        --------
+	4               6               0
+	5              10               0
+	6              15               0
+	7              21               0
+	8              28               0
+	9              36               0
+   10              45               0
+
+
+
+   check algorithm correct
+   htreshold  = 4 every row cause a dynamic parallel
+
+

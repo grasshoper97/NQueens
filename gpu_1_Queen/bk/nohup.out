@@ -1,0 +1,16 @@
+launch successed! ( code= no error)!
+launch successed! ( code= no error)!
+from file: ../300000.txt  read 1 rows. use Device 0 
+GPU is OK!
+from file: ../300000.txt  read 1 rows. use Device 0 
+GPU is OK!
+warmup() run time=                       1.837728 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+warmup() run time=                       1.943424 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    300000	         0	      1811
+[0m[1;31;40m    300000	         0	      1814
+[0mfrom file: ../100000.txt  read 1 rows. use Device 0 
+文件不能打开

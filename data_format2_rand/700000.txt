@@ -1,0 +1,1 @@
+/home/sx302/test/NQueen/cpu_min_conflict/gen_format2_random_1_line/700000.txt

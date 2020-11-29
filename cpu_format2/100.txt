@@ -1,0 +1,81 @@
+from file: ../data_format2_zero/100.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        100	         0	         0	        15	
+[0mfrom file: ../data_format2_zero/200.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        200	         0	         0	        54	
+[0mfrom file: ../data_format2_zero/300.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        300	         0	         0	       119	
+[0mfrom file: ../data_format2_zero/400.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        400	         0	         0	       209	
+[0mfrom file: ../data_format2_zero/500.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        500	         0	         0	       324	
+[0mfrom file: ../data_format2_zero/600.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        600	         0	         0	       464	
+[0mfrom file: ../data_format2_zero/700.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        700	         0	         0	       629	
+[0mfrom file: ../data_format2_zero/800.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        800	         0	         0	       819	
+[0mfrom file: ../data_format2_zero/900.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        900	         0	         1	      1034	
+[0mfrom file: ../data_format2_zero/1000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m       1000	         0	         1	      1274	
+[0mfrom file: ../data_format2_zero/100.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        100	         0	         0	        46	
+[0mfrom file: ../data_format2_zero/200.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        200	         0	         0	       177	
+[0mfrom file: ../data_format2_zero/300.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        300	         0	         0	       396	
+[0mfrom file: ../data_format2_zero/400.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        400	         0	         0	       701	
+[0mfrom file: ../data_format2_zero/500.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        500	         0	         1	      1090	
+[0mfrom file: ../data_format2_zero/600.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        600	         0	         1	      1566	
+[0mfrom file: ../data_format2_zero/700.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        700	         0	         2	      2130	
+[0mfrom file: ../data_format2_zero/800.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        800	         0	         2	      2814	
+[0mfrom file: ../data_format2_zero/900.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m        900	         0	         3	      3589	
+[0mfrom file: ../data_format2_zero/1000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)  time(us)
+     -----	 ---------	  --------  --------
+[1;31;40m       1000	         0	         4	      4347	
+[0m

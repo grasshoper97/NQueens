@@ -1,0 +1,1 @@
+/home/sx302/test/NQueen/cpu_min_conflict/min3_format2/format2_1_line_0_conflict/900.txt

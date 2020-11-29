@@ -1,0 +1,185 @@
+from file: ../data_format2/100.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       100	        74	         0	       871[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/200.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       200	       110	         0	       870[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/300.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       300	       172	         1	      1202[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/400.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       400	       290	         1	      1309[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/500.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       500	       349	         1	      1222[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/600.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       600	       378	         1	      1401[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/700.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       700	       483	         1	      1403[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/800.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       800	       538	         1	      1617[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/900.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m       900	       590	         1	      1626[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/1000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      1000	       647	         1	      1811[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/2000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      2000	      1309	         2	      2321[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/3000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      3000	      1964	         2	      2982[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/4000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      4000	      2709	         3	      3650[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/5000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      5000	      3378	         4	      4377[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/6000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      6000	      3958	         5	      5339[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/7000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      7000	      4693	         5	      5812[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/8000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      8000	      5319	         6	      6353[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/9000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m      9000	      5853	         7	      7280[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/10000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     10000	      6717	         7	      7708[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/20000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     20000	     13443	        14	     14684[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/30000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     30000	     20200	        22	     22163[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/40000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     40000	     26666	        30	     30056[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/50000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     50000	     33426	        35	     35054[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/60000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     60000	     39755	        53	     53999[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/70000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     70000	     46784	        75	     75413[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/80000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     80000	     53447	        97	     97050[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/90000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m     90000	     60471	        85	     85103[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/100000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    100000	     66462	       102	    102626[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/200000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    200000	    133469	       486	    486568[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/300000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    300000	    200255	       855	    855920[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/400000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    400000	    267182	      1587	   1587298[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/500000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    500000	    332762	      2245	   2245082[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/600000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    600000	    399714	      3413	   3413179[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/700000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    700000	    466866	      4519	   4519651[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/800000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    800000	    534213	      5768	   5768472[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/900000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    900000	    600188	      7357	   7357671[0m	cpu == GPU, Check Pass!
+from file: ../data_format2/1000000.txt  read 1 rows. use Device 0 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m   1000000	    666169	      9079	   9079554[0m	cpu == GPU, Check Pass!

@@ -1,0 +1,1017 @@
+file: ../data_format2_rand/100.txt  ,  repeat: 1000,   f_num: 100,   f_con: 74  
+ 
+[  0] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             15
+[  1] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             19
+[  2] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[  3] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[  4] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[  5] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             16
+[  6] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[  7] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[  8] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             14
+[  9] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[ 10] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 11] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[ 12] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             13
+[ 13] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 14] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 15] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 16] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[ 17] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 18] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 19] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 20] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 21] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 22] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 23] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 24] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 25] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[ 26] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 27] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 28] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 29] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             28
+[ 30] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 31] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[ 32] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 33] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 34] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[ 35] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 36] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 37] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[ 38] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[ 39] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 40] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 41] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 42] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[ 43] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[ 44] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 45] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 46] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 47] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 48] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 49] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 50] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[ 51] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 52] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 53] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 54] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[ 55] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 56] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 57] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 58] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[ 59] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 60] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 61] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 62] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[ 63] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 64] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 65] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 66] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 67] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 68] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 69] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 70] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 71] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[ 72] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 73] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 74] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 75] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             15
+[ 76] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             18
+[ 77] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             13
+[ 78] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[ 79] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             15
+[ 80] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             15
+[ 81] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 82] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             14
+[ 83] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             16
+[ 84] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             18
+[ 85] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             13
+[ 86] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             16
+[ 87] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             14
+[ 88] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 89] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 90] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[ 91] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[ 92] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 93] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 94] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 95] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 96] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             13
+[ 97] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[ 98] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[ 99] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[100] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[101] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[102] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[103] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[104] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[105] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[106] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[107] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[108] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[109] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[110] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[111] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[112] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[113] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[114] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[115] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[116] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[117] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             15
+[118] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             16
+[119] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             14
+[120] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[121] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[122] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[123] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[124] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[125] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[126] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[127] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[128] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[129] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             24
+[130] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[131] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[132] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[133] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[134] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[135] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[136] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[137] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[138] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[139] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[140] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[141] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[142] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[143] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[144] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[145] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[146] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[147] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[148] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[149] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[150] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[151] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[152] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[153] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[154] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[155] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[156] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[157] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[158] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[159] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[160] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[161] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              6
+[162] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[163] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[164] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[165] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[166] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[167] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[168] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[169] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[170] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[171] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[172] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             15
+[173] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[174] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             18
+[175] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[176] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[177] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[178] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[179] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[180] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[181] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[182] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[183] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[184] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[185] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[186] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[187] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[188] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[189] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[190] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[191] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[192] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[193] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[194] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[195] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[196] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[197] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[198] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[199] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[200] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[201] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[202] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[203] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[204] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[205] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[206] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[207] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[208] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[209] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[210] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[211] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[212] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[213] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[214] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[215] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[216] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[217] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[218] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[219] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[220] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[221] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[222] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[223] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[224] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[225] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[226] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[227] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[228] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[229] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[230] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[231] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[232] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[233] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[234] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[235] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[236] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[237] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[238] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[239] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             45
+[240] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[241] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[242] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[243] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[244] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[245] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[246] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[247] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[248] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[249] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[250] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[251] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[252] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[253] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             15
+[254] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[255] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[256] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[257] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[258] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             14
+[259] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[260] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[261] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[262] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[263] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[264] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[265] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[266] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[267] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[268] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             13
+[269] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[270] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[271] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[272] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[273] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[274] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[275] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[276] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[277] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[278] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[279] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[280] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[281] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[282] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             14
+[283] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[284] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             16
+[285] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[286] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[287] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[288] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[289] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[290] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[291] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[292] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              6
+[293] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[294] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[295] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[296] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              7
+[297] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[298] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[299] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[300] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[301] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             11
+[302] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[303] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[304] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[305] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[306] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[307] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[308] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              8
+[309] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2              9
+[310] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+[311] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             12
+[312] f_conflict= 74 , m_conflict= 74   check PASS! 
+     processors      threshold       Time(ms)
+             40              2             10
+java.util.concurrent.ExecutionException: java.lang.OutOfMemoryError
+	at java.util.concurrent.ForkJoinTask.get(ForkJoinTask.java:1006)
+	at CountTask.main(CountTask.java:111)
+Caused by: java.lang.OutOfMemoryError
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.util.concurrent.ForkJoinTask.getThrowableException(ForkJoinTask.java:598)
+	at java.util.concurrent.ForkJoinTask.get(ForkJoinTask.java:1005)
+	... 1 more
+Caused by: java.lang.OutOfMemoryError
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.util.concurrent.ForkJoinTask.getThrowableException(ForkJoinTask.java:598)
+	at java.util.concurrent.ForkJoinTask.reportException(ForkJoinTask.java:677)
+	at java.util.concurrent.ForkJoinTask.join(ForkJoinTask.java:720)
+	at CountTask.compute(CountTask.java:52)
+	at CountTask.compute(CountTask.java:9)
+	at java.util.concurrent.RecursiveTask.exec(RecursiveTask.java:94)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+Caused by: java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.util.concurrent.ForkJoinPool.createWorker(ForkJoinPool.java:1486)
+	at java.util.concurrent.ForkJoinPool.tryAddWorker(ForkJoinPool.java:1517)
+	at java.util.concurrent.ForkJoinPool.signalWork(ForkJoinPool.java:1634)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.push(ForkJoinPool.java:868)
+	at java.util.concurrent.ForkJoinTask.fork(ForkJoinTask.java:700)
+	at CountTask.compute(CountTask.java:50)
+	... 6 more
+     processors      threshold       Time(ms)
+             40              2              6
+java.util.concurrent.ExecutionException: java.lang.OutOfMemoryError
+	at java.util.concurrent.ForkJoinTask.get(ForkJoinTask.java:1006)
+	at CountTask.main(CountTask.java:111)
+Caused by: java.lang.OutOfMemoryError
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.util.concurrent.ForkJoinTask.getThrowableException(ForkJoinTask.java:598)
+	at java.util.concurrent.ForkJoinTask.get(ForkJoinTask.java:1005)
+	... 1 more
+Caused by: java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.util.concurrent.ForkJoinPool.createWorker(ForkJoinPool.java:1486)
+	at java.util.concurrent.ForkJoinPool.tryAddWorker(ForkJoinPool.java:1517)
+	at java.util.concurrent.ForkJoinPool.signalWork(ForkJoinPool.java:1634)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.push(ForkJoinPool.java:868)
+	at java.util.concurrent.ForkJoinTask.fork(ForkJoinTask.java:700)
+	at CountTask.compute(CountTask.java:49)
+	at CountTask.compute(CountTask.java:9)
+	at java.util.concurrent.RecursiveTask.exec(RecursiveTask.java:94)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+     processors      threshold       Time(ms)
+             40              2              2
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.util.concurrent.ForkJoinPool.createWorker(ForkJoinPool.java:1486)
+	at java.util.concurrent.ForkJoinPool.tryAddWorker(ForkJoinPool.java:1517)
+	at java.util.concurrent.ForkJoinPool.signalWork(ForkJoinPool.java:1634)
+	at java.util.concurrent.ForkJoinPool.externalSubmit(ForkJoinPool.java:2367)
+	at java.util.concurrent.ForkJoinPool.externalPush(ForkJoinPool.java:2419)
+	at java.util.concurrent.ForkJoinPool.submit(ForkJoinPool.java:2664)
+	at CountTask.main(CountTask.java:108)

@@ -1,0 +1,4 @@
+Kernel_p.cu:351:	// D->H  and timer	
+Kernel_p.cu:360:		fprintf(stderr, "D->H error! (error code= %s)!\n", cudaGetErrorString(cuda_err));
+Kernel_p.cu:366:			fprintf(stderr, "D->H successed ! ( code= %s)!\n", cudaGetErrorString(cuda_err));
+Kernel_p.cu:371:	//if(DEBUG) printf("%-40s %f ms \n","CUDA D->H time =  ", cuda_time);

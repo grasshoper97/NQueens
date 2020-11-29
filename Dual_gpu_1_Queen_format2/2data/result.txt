@@ -1,0 +1,3 @@
+for 100000 random queens
+gpu_1_queen 116 ms
+2_data		121 ms	

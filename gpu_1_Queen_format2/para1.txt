@@ -1,0 +1,33 @@
+from file: ../data_format2_zero/10000.txt  read 1 rows. use Device 1 
+GPU is OK!
+Device in use =1 
+ [1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m[ 0]       10000	         0	         8	      8658[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 1]       10000	         0	         8	      8564[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 2]       10000	         0	         8	      8667[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 3]       10000	         0	         8	      8659[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 4]       10000	         0	         8	      8476[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 5]       10000	         0	         8	      8595[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 6]       10000	         0	         8	      8521[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 7]       10000	         0	         8	      8610[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 8]       10000	         0	         8	      8512[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 9]       10000	         0	         8	      8540[0m	cpu == GPU, Check Pass!
+[1;31;40mAVER       10000	      0.00	      8.00	   8580.20	
+[0mfrom file: ../data_format2_zero/10000.txt  read 1 rows. use Device 1 
+GPU is OK!
+Device in use =1 
+ [1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m[ 0]       10000	         0	         7	      7974[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 1]       10000	         0	         7	      7912[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 2]       10000	         0	         7	      7933[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 3]       10000	         0	         7	      7858[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 4]       10000	         0	         7	      7881[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 5]       10000	         0	         7	      7848[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 6]       10000	         0	         7	      7864[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 7]       10000	         0	         7	      7868[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 8]       10000	         0	         7	      7929[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 9]       10000	         0	         7	      7860[0m	cpu == GPU, Check Pass!
+[1;31;40mAVER       10000	      0.00	      7.00	   7892.70	
+[0m

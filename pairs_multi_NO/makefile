@@ -1,0 +1,2 @@
+ALL:
+	g++ a.cpp  -std=c++11

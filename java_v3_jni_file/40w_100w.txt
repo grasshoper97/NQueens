@@ -1,0 +1,66 @@
+
+sx302@hp_580_1:~/test/NQueen/CheckOne_Datafile_compare/java_v3_jni_file$ ./run40w_100w.sh
+from file: ../data_format2_rand/400000.txt  read 1 rows 3 loops
+-Djava.class.path=.
+[OK 1] create java m_jvm success
+[OK 2] find java class success
+	[OK 3] find Func ok
+AVER      Queen  conflicts        time(us)  time(ms)
+	----     -----     ---------        --------  --------
+	aver     400000     267182          267182      419126126.000000        419126.000000
+	[OK 4] Java VM destory.
+	from file: ../data_format2_rand/500000.txt  read 1 rows 3 loops
+	-Djava.class.path=.
+	[OK 1] create java m_jvm success
+	[OK 2] find java class success
+	[OK 3] find Func ok
+^[^N6AVER      Queen     conflicts        time(us)  time(ms)
+	----     -----     ---------        --------  --------
+	aver     500000     332762          332762      652362059.000000        652362.000000
+	[OK 4] Java VM destory.
+	from file: ../data_format2_rand/600000.txt  read 1 rows 3 loops
+	-Djava.class.path=.
+	[OK 1] create java m_jvm success
+	[OK 2] find java class success
+	[OK 3] find Func ok
+AVER      Queen  conflicts        time(us)  time(ms)
+	----     -----     ---------        --------  --------
+	aver     600000     399714          399714      -490577726.000000       941078.000000
+	[OK 4] Java VM destory.
+	from file: ../data_format2_rand/700000.txt  read 1 rows 3 loops
+	-Djava.class.path=.
+	[OK 1] create java m_jvm success
+	[OK 2] find java class success
+	[OK 3] find Func ok
+AVER      Queen  conflicts        time(us)  time(ms)
+	----     -----     ---------        --------  --------
+	aver     700000     466866          466866      -150115352.333333       1281540.333333
+	[OK 4] Java VM destory.
+	from file: ../data_format2_rand/800000.txt  read 1 rows 3 loops
+	-Djava.class.path=.
+	[OK 1] create java m_jvm success
+	[OK 2] find java class success
+	[OK 3] find Func ok
+AVER      Queen  conflicts        time(us)  time(ms)
+	----     -----     ---------        --------  --------
+	aver     800000     534213          534213      257932267.000000        1689588.000000
+	[OK 4] Java VM destory.
+	from file: ../data_format2_rand/900000.txt  read 1 rows 3 loops
+	-Djava.class.path=.
+	[OK 1] create java m_jvm success
+	[OK 2] find java class success
+	[OK 3] find Func ok
+AVER      Queen  conflicts        time(us)  time(ms)
+	----     -----     ---------        --------  --------
+	aver     900000     600188          600188      694255928.000000        2125911.666667
+	[OK 4] Java VM destory.
+	from file: ../data_format2_rand/1000000.txt  read 1 rows 3 loops
+	-Djava.class.path=.
+	[OK 1] create java m_jvm success
+	[OK 2] find java class success
+	[OK 3] find Func ok
+AVER      Queen  conflicts        time(us)  time(ms)
+	----     -----     ---------        --------  --------
+	aver    1000000     666169          666169      -257432503.333333       2605879.000000
+	[OK 4] Java VM destory.
+

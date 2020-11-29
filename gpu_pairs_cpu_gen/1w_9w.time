@@ -1,0 +1,11 @@
+from file: ../1w_9w_step1w.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.270080 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m     10000	         0	       742
+[0m[1;31;40m     20000	         0	      3133
+[0m[1;31;40m     30000	         0	      7196
+[0m[1;31;40m     40000	         0	     12643
+[0mmalloc h_pairs  error 
+i

@@ -1,0 +1,61 @@
+from file:  �  read 1 rows. 
+文件不能打开
+from file:  �  read 1 rows. 
+文件不能打开
+from file:  ��  read 1 rows. 
+文件不能打开
+from file:  �b  read 1 rows. 
+文件不能打开
+from file:  �o  read 1 rows. 
+文件不能打开
+from file:  �2  read 1 rows. 
+文件不能打开
+from file:  �  read 1 rows. 
+文件不能打开
+from file:  M  read 1 rows. 
+文件不能打开
+from file:  ��  read 1 rows. 
+文件不能打开
+from file:  ,�  read 1 rows. 
+文件不能打开
+from file:  ��  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	        46	
+[0mfrom file:  <  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        200	         0	         0	       177	
+[0mfrom file:  <w  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        300	         0	         0	       395	
+[0mfrom file:  l�  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        400	         0	         0	       700	
+[0mfrom file:  n  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        500	         0	         1	      1105	
+[0mfrom file:  ,�  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        600	         0	         1	      1567	
+[0mfrom file:  L�  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        700	         0	         2	      2132	
+[0mfrom file:  �`  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        800	         0	         2	      2802	
+[0mfrom file:  ��  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        900	         0	         3	      3525	
+[0mfrom file:  �J  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         4	      4363	
+[0m

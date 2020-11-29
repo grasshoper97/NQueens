@@ -1,0 +1,12 @@
+check : check.o  m_JVM.o
+	g++ -std=c++11 check.o m_JVM.o  -o check  -g  -I/usr/local/jdk1.8.0_161/include -ljvm -L/usr/local/jdk1.8.0_161/jre/lib/amd64/server -L/usr/bin/java     
+
+m_JVM.o : m_JVM.cpp  m_JVM.h
+	g++ -std=c++11 m_JVM.cpp -c               -g  -I/usr/local/jdk1.8.0_161/include -ljvm -L/usr/local/jdk1.8.0_161/jre/lib/amd64/server -L/usr/bin/java     
+
+check.o : check.cpp m_JVM.h
+	g++ -std=c++11 check.cpp -c 			 -g  -I/usr/local/jdk1.8.0_161/include -ljvm -L/usr/local/jdk1.8.0_161/jre/lib/amd64/server -L/usr/bin/java     
+
+clean:
+	rm -rf *.o
+	rm -rf check

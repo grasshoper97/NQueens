@@ -1,0 +1,595 @@
+2019年 06月 25日 星期二 11:21:38 CST
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40              2           1626
+        average         100000    1626.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40              3           1530
+        average         100000    1530.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40              4           1258
+        average         100000    1258.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40              5           1189
+        average         100000    1189.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40              6           1412
+        average         100000    1412.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40              7           1654
+        average         100000    1654.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40              8           1156
+        average         100000    1156.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40              9           1395
+        average         100000    1395.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             10           1345
+        average         100000    1345.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             11           1234
+        average         100000    1234.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             12           1765
+        average         100000    1765.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             13           1281
+        average         100000    1281.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             14           1398
+        average         100000    1398.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             15           1248
+        average         100000    1248.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             16           1761
+        average         100000    1761.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             17           1200
+        average         100000    1200.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             18           1151
+        average         100000    1151.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             19           1108
+        average         100000    1108.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             20           1247
+        average         100000    1247.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             21           1176
+        average         100000    1176.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             22           1192
+        average         100000    1192.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             23           1752
+        average         100000    1752.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             24           1623
+        average         100000    1623.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             25           1151
+        average         100000    1151.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             26           1155
+        average         100000    1155.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             27           1185
+        average         100000    1185.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             28           1292
+        average         100000    1292.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             29           1124
+        average         100000    1124.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             30           1161
+        average         100000    1161.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             31           1377
+        average         100000    1377.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             32           1111
+        average         100000    1111.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             33           1189
+        average         100000    1189.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             34           1515
+        average         100000    1515.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             35           1154
+        average         100000    1154.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             36           1237
+        average         100000    1237.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             37           1183
+        average         100000    1183.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             38           1172
+        average         100000    1172.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             39           1195
+        average         100000    1195.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             40           1317
+        average         100000    1317.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             41           1188
+        average         100000    1188.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             42           1195
+        average         100000    1195.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             43           1178
+        average         100000    1178.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             44           1879
+        average         100000    1879.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             45           1205
+        average         100000    1205.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             46           1553
+        average         100000    1553.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             47           1201
+        average         100000    1201.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             48           1418
+        average         100000    1418.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             49           1225
+        average         100000    1225.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             50           1219
+        average         100000    1219.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             51           1275
+        average         100000    1275.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             52           1168
+        average         100000    1168.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             53           1266
+        average         100000    1266.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             54           1461
+        average         100000    1461.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             55           1916
+        average         100000    1916.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             56           1242
+        average         100000    1242.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             57           1183
+        average         100000    1183.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             58           1510
+        average         100000    1510.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             59           1177
+        average         100000    1177.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             60           1242
+        average         100000    1242.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             61           1176
+        average         100000    1176.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             62           1202
+        average         100000    1202.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             63           1158
+        average         100000    1158.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             64           1123
+        average         100000    1123.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             65           1173
+        average         100000    1173.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             66           1174
+        average         100000    1174.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             67           1198
+        average         100000    1198.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             68           1195
+        average         100000    1195.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             69           1227
+        average         100000    1227.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             70           1195
+        average         100000    1195.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             71           1692
+        average         100000    1692.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             72           1588
+        average         100000    1588.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             73           1168
+        average         100000    1168.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             74           1172
+        average         100000    1172.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             75           1333
+        average         100000    1333.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             76           1266
+        average         100000    1266.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             77           1191
+        average         100000    1191.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             78           1186
+        average         100000    1186.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             79           1229
+        average         100000    1229.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             80           1200
+        average         100000    1200.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             81           1436
+        average         100000    1436.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             82           1157
+        average         100000    1157.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             83           1179
+        average         100000    1179.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             84           1258
+        average         100000    1258.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             85           1155
+        average         100000    1155.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             86           1233
+        average         100000    1233.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             87           1140
+        average         100000    1140.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             88           1189
+        average         100000    1189.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             89           1417
+        average         100000    1417.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             90           1483
+        average         100000    1483.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             91           1490
+        average         100000    1490.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             92           1139
+        average         100000    1139.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             93           1237
+        average         100000    1237.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             94           1158
+        average         100000    1158.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             95           1207
+        average         100000    1207.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             96           1592
+        average         100000    1592.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             97           1260
+        average         100000    1260.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             98           1294
+        average         100000    1294.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40             99           1212
+        average         100000    1212.000000
+file: ../data_format2_rand/100000.txt  ,  repeat: 1,   f_num: 100000,   f_con: 66462  
+ 
+ f_conflict= 66462 , m_conflict= 66462   check PASS! 
+     processors      threshold       Time(ms)
+             40            100           1238
+        average         100000    1238.000000

@@ -1,0 +1,41 @@
+2019年 02月 14日 星期四 17:54:13 CST
+from file: ../data_format1/100000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    100000	         0	     27975
+from file: ../data_format1/200000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    200000	         0	    110680
+from file: ../data_format1/300000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    300000	         0	    258952
+from file: ../data_format1/400000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    400000	         0	    439296
+from file: ../data_format1/500000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    500000	         0	    698826
+from file: ../data_format1/600000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    600000	         0	    999903
+from file: ../data_format1/700000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    700000	         0	   1356546
+from file: ../data_format1/800000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    800000	         0	   1692468
+from file: ../data_format1/900000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+    900000	         0	   2179803
+from file: ../data_format1/1000000.txt  read 1 rows. 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+   1000000	         0	   2682851

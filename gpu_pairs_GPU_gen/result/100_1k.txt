@@ -1,0 +1,201 @@
+from file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.040128 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       584	
+[0m[1;31;40m        200	         0	         0	       544	
+[0m[1;31;40m        300	         0	         0	       981	
+[0m[1;31;40m        400	         0	         1	      1046	
+[0m[1;31;40m        500	         0	         1	      1136	
+[0m[1;31;40m        600	         0	         1	      1300	
+[0m[1;31;40m        700	         0	         1	      1511	
+[0m[1;31;40m        800	         0	         1	      1785	
+[0m[1;31;40m        900	         0	         2	      2131	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.054528 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         2	      2784	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.043424 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       675	
+[0m[1;31;40m        200	         0	         0	       568	
+[0m[1;31;40m        300	         0	         1	      1022	
+[0m[1;31;40m        400	         0	         1	      1092	
+[0m[1;31;40m        500	         0	         1	      1174	
+[0m[1;31;40m        600	         0	         1	      1336	
+[0m[1;31;40m        700	         0	         1	      1580	
+[0m[1;31;40m        800	         0	         1	      1849	
+[0m[1;31;40m        900	         0	         2	      2253	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.121920 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         2	      2963	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.072608 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       572	
+[0m[1;31;40m        200	         0	         0	       513	
+[0m[1;31;40m        300	         0	         0	       977	
+[0m[1;31;40m        400	         0	         1	      1029	
+[0m[1;31;40m        500	         0	         1	      1145	
+[0m[1;31;40m        600	         0	         1	      1315	
+[0m[1;31;40m        700	         0	         1	      1554	
+[0m[1;31;40m        800	         0	         1	      1861	
+[0m[1;31;40m        900	         0	         2	      2259	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.034592 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         3	      3327	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.100352 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       563	
+[0m[1;31;40m        200	         0	         0	       547	
+[0m[1;31;40m        300	         0	         1	      1054	
+[0m[1;31;40m        400	         0	         1	      1152	
+[0m[1;31;40m        500	         0	         1	      1309	
+[0m[1;31;40m        600	         0	         1	      1514	
+[0m[1;31;40m        700	         0	         1	      1778	
+[0m[1;31;40m        800	         0	         2	      2174	
+[0m[1;31;40m        900	         0	         2	      2643	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.132320 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         2	      2933	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.060992 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       600	
+[0m[1;31;40m        200	         0	         0	       525	
+[0m[1;31;40m        300	         0	         1	      1008	
+[0m[1;31;40m        400	         0	         1	      1091	
+[0m[1;31;40m        500	         0	         1	      1223	
+[0m[1;31;40m        600	         0	         1	      1362	
+[0m[1;31;40m        700	         0	         1	      1601	
+[0m[1;31;40m        800	         0	         1	      1921	
+[0m[1;31;40m        900	         0	         2	      2293	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.094176 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         3	      3324	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.110368 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       569	
+[0m[1;31;40m        200	         0	         0	       564	
+[0m[1;31;40m        300	         0	         1	      1009	
+[0m[1;31;40m        400	         0	         1	      1112	
+[0m[1;31;40m        500	         0	         1	      1227	
+[0m[1;31;40m        600	         0	         1	      1358	
+[0m[1;31;40m        700	         0	         1	      1606	
+[0m[1;31;40m        800	         0	         1	      1917	
+[0m[1;31;40m        900	         0	         2	      2277	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.046816 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         3	      3289	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.130560 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       584	
+[0m[1;31;40m        200	         0	         0	       576	
+[0m[1;31;40m        300	         0	         1	      1104	
+[0m[1;31;40m        400	         0	         1	      1159	
+[0m[1;31;40m        500	         0	         1	      1307	
+[0m[1;31;40m        600	         0	         1	      1494	
+[0m[1;31;40m        700	         0	         1	      1818	
+[0m[1;31;40m        800	         0	         2	      2230	
+[0m[1;31;40m        900	         0	         2	      2660	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.017728 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         2	      2888	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.051840 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       593	
+[0m[1;31;40m        200	         0	         0	       544	
+[0m[1;31;40m        300	         0	         1	      1039	
+[0m[1;31;40m        400	         0	         1	      1095	
+[0m[1;31;40m        500	         0	         1	      1230	
+[0m[1;31;40m        600	         0	         1	      1408	
+[0m[1;31;40m        700	         0	         1	      1686	
+[0m[1;31;40m        800	         0	         2	      2002	
+[0m[1;31;40m        900	         0	         2	      2426	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.576224 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         3	      3750	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.113440 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       600	
+[0m[1;31;40m        200	         0	         0	       546	
+[0m[1;31;40m        300	         0	         1	      1040	
+[0m[1;31;40m        400	         0	         1	      1111	
+[0m[1;31;40m        500	         0	         1	      1215	
+[0m[1;31;40m        600	         0	         1	      1362	
+[0m[1;31;40m        700	         0	         1	      1626	
+[0m[1;31;40m        800	         0	         1	      1930	
+[0m[1;31;40m        900	         0	         2	      2312	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.080768 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         2	      2839	
+[0mfrom file: ../data_format1/100_900_step100.txt  read 9 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.029120 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m        100	         0	         0	       557	
+[0m[1;31;40m        200	         0	         0	       525	
+[0m[1;31;40m        300	         0	         0	       995	
+[0m[1;31;40m        400	         0	         1	      1094	
+[0m[1;31;40m        500	         0	         1	      1216	
+[0m[1;31;40m        600	         0	         1	      1406	
+[0m[1;31;40m        700	         0	         1	      1690	
+[0m[1;31;40m        800	         0	         1	      1990	
+[0m[1;31;40m        900	         0	         2	      2464	
+[0mfrom file: ../data_format1/1k_9k_step1k.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.078368 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m       1000	         0	         2	      2856	
+[0m

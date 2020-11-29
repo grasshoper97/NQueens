@@ -1,0 +1,185 @@
+2019年 02月 15日 星期五 18:31:08 CST
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+usage:  check filename rowNumber device
+e.g. :  check 4.txt 10  0
+2019年 02月 15日 星期五 18:45:20 CST
+from file: ../data_format1/100000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.945280 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    100000	         0	       120
+[0mfrom file: ../data_format1/200000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.946464 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    200000	         0	       439
+[0mfrom file: ../data_format1/300000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       1.267936 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    300000	         0	       918
+[0mfrom file: ../data_format1/400000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.965216 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    400000	         0	      1491
+[0mfrom file: ../data_format1/500000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.943520 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    500000	         0	      2309
+[0mfrom file: ../data_format1/600000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.950048 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    600000	         0	      3334
+[0mfrom file: ../data_format1/700000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.946368 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    700000	         0	      4415
+[0mfrom file: ../data_format1/800000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.939168 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    800000	         0	      5764
+[0mfrom file: ../data_format1/900000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.955584 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m    900000	         0	      7269
+[0mfrom file: ../data_format1/1000000.txt  read 1 rows. use Device 1 
+GPU is OK!
+warmup() run time=                       0.969568 ms 
+[1;31;40m     Queen	 conflicts	  time(ms)
+[0m     -----	 ---------	  --------
+[1;31;40m   1000000	         0	      8966
+[0m2019年 04月 04日 星期四 19:08:40 CST
+from file: ../data_format1/100000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    100000	         0	       124	    124844	
+[0mfrom file: ../data_format1/200000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    200000	         0	       359	    359469	
+[0mfrom file: ../data_format1/300000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    300000	         0	       928	    928274	
+[0mfrom file: ../data_format1/400000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    400000	         0	      1429	   1429613	
+[0mfrom file: ../data_format1/500000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    500000	         0	      2254	   2254495	
+[0mfrom file: ../data_format1/600000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    600000	         0	      3228	   3228245	
+[0mfrom file: ../data_format1/700000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    700000	         0	      4451	   4451791	
+[0mfrom file: ../data_format1/800000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    800000	         0	      5785	   5785516	
+[0mfrom file: ../data_format1/900000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    900000	         0	      7313	   7313878	
+[0mfrom file: ../data_format1/1000000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m   1000000	         0	      9006	   9006347	
+[0m2019年 04月 04日 星期四 19:17:33 CST
+from file: ../data_format1/100000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    100000	         0	       103	    103116	
+[0mfrom file: ../data_format1/200000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    200000	         0	       471	    471432	
+[0mfrom file: ../data_format1/300000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    300000	         0	       897	    897729	
+[0mfrom file: ../data_format1/400000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    400000	         0	      1555	   1555091	
+[0mfrom file: ../data_format1/500000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    500000	         0	      2317	   2317058	
+[0mfrom file: ../data_format1/600000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    600000	         0	      3274	   3274922	
+[0mfrom file: ../data_format1/700000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    700000	         0	      4422	   4422526	
+[0mfrom file: ../data_format1/800000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    800000	         0	      5786	   5786753	
+[0mfrom file: ../data_format1/900000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m    900000	         0	      7263	   7263065	
+[0mfrom file: ../data_format1/1000000.txt  read 1 rows. use Device 1 
+GPU is OK!
+[1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m   1000000	         0	      9042	   9042594	
+[0m

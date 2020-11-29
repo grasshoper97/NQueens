@@ -1,0 +1,57 @@
+2019年 02月 15日 星期五 12:13:29 CST
+from file: ../data_format1/100000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.305312 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m    100000	         0	    698981
+[0mfrom file: ../data_format1/200000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.314944 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m    200000	         0	   1333721
+[0mfrom file: ../data_format1/300000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.322464 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/400000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.008736 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m    400000	         0	   2153700
+[0mfrom file: ../data_format1/500000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.013600 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m    500000	         0	   2210103
+[0mfrom file: ../data_format1/600000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.320896 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/700000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.011680 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m    700000	         0	   1294787
+[0mfrom file: ../data_format1/800000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.007776 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+[1;31;40m    800000	         0	    194828
+[0mfrom file: ../data_format1/900000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.007840 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------
+from file: ../data_format1/1000000.txt  read 1 rows. 
+GPU is OK!
+Ker_Warm() run time=                     1.008256 ms 
+     Queen	 conflicts	  time(ms)
+     -----	 ---------	  --------

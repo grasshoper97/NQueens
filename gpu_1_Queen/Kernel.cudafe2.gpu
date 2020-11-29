@@ -1,0 +1,130 @@
+# 216 "/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h" 3
+typedef unsigned long size_t;
+#include "crt/device_runtime.h"
+# 196 "/usr/local/cuda-8.0/bin/..//include/crt/device_runtime.h" 3
+___device__(extern  __no_sc__) __attribute__((__used__)) __attribute__((__malloc__)) __attribute__((__nothrow__)) void *malloc(size_t __T10);
+# 197 "/usr/local/cuda-8.0/bin/..//include/crt/device_runtime.h" 3
+___device__(extern  __no_sc__) __attribute__((__used__)) __attribute__((__nothrow__)) void free(void *__T11);
+#if !defined(__CUDABE__)
+# 129 "/usr/local/cuda-8.0/bin/..//include/common_functions.h"
+ __device_builtin__ ___device__(extern  __no_sc__) int printf(const char *__restrict__ __T12, ...);
+#endif
+#if !defined(__CUDABE__)
+# 82 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.h"
+ __device_builtin__ ___device__(extern  __no_sc__) unsigned __uAtomicAdd(unsigned *__T13, unsigned __T14);
+#endif
+# 81 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+___device__(static  __no_sc__) __inline__ unsigned _ZN36_INTERNAL_14_Kernel_cpp1_ii_a105f23b9atomicAddEPjj(unsigned *__T15, unsigned __T16);
+# 10 "Kernel.cu"
+__global__ __var_used__ extern void _Z8Ker_Warmv(void);
+# 16 "Kernel.cu"
+__global__ __var_used__ extern void _Z21Ker_Check_CombinationPiiPj(int *__T17, int __T18, unsigned *__T19);
+#include "common_functions.h"
+#if !defined(__CUDABE__)
+#endif
+#if !defined(__CUDABE__)
+#endif
+# 81 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+___device__(static  __no_sc__) __inline__ unsigned _ZN36_INTERNAL_14_Kernel_cpp1_ii_a105f23b9atomicAddEPjj(
+# 81 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+unsigned *address, 
+# 81 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+unsigned val){
+# 81 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+{
+# 82 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+{
+# 83 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+return __uAtomicAdd(address, val);
+# 84 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+}
+# 84 "/usr/local/cuda-8.0/bin/..//include/device_atomic_functions.hpp"
+}}
+# 10 "Kernel.cu"
+__global__ __var_used__ void _Z8Ker_Warmv(void){
+# 10 "Kernel.cu"
+{
+# 10 "Kernel.cu"
+{ {
+# 12 "Kernel.cu"
+if ((threadIdx.x) == 0U)
+# 12 "Kernel.cu"
+{
+# 13 "Kernel.cu"
+printf(((const char *)"GPU is OK!\n"));
+# 13 "Kernel.cu"
+} }
+# 14 "Kernel.cu"
+} 
+# 14 "Kernel.cu"
+}}
+# 16 "Kernel.cu"
+__global__ __var_used__ void _Z21Ker_Check_CombinationPiiPj(
+# 17 "Kernel.cu"
+int *d_combination, 
+# 18 "Kernel.cu"
+int combination_size, 
+# 19 "Kernel.cu"
+unsigned *d_result){
+# 19 "Kernel.cu"
+{
+# 21 "Kernel.cu"
+{
+# 22 "Kernel.cu"
+ int __cuda_local_var_51993_12_non_const_tid;
+# 30 "Kernel.cu"
+ int __cuda_local_var_52001_6_non_const_curX;
+# 31 "Kernel.cu"
+ int __cuda_local_var_52002_6_non_const_curY;
+# 22 "Kernel.cu"
+__cuda_local_var_51993_12_non_const_tid = ((int)(((blockDim.x) * (blockIdx.x)) + (threadIdx.x))); {
+# 24 "Kernel.cu"
+if (__cuda_local_var_51993_12_non_const_tid >= combination_size)
+# 24 "Kernel.cu"
+{
+# 25 "Kernel.cu"
+return;
+# 25 "Kernel.cu"
+} } {
+# 26 "Kernel.cu"
+if (__cuda_local_var_51993_12_non_const_tid == 0)
+# 26 "Kernel.cu"
+{
+# 27 "Kernel.cu"
+(d_result[0]) = 0U;
+# 27 "Kernel.cu"
+} }
+# 30 "Kernel.cu"
+__cuda_local_var_52001_6_non_const_curX = __cuda_local_var_51993_12_non_const_tid;
+# 31 "Kernel.cu"
+__cuda_local_var_52002_6_non_const_curY = (d_combination[__cuda_local_var_51993_12_non_const_tid]);
+# 31 "Kernel.cu"
+{
+# 33 "Kernel.cu"
+ int iX;
+# 33 "Kernel.cu"
+iX = (__cuda_local_var_51993_12_non_const_tid + 1); {
+# 33 "Kernel.cu"
+for (; (iX <= (combination_size - 1)); iX++)
+# 33 "Kernel.cu"
+{
+# 34 "Kernel.cu"
+ int __cuda_local_var_52005_7_non_const_iY;
+# 34 "Kernel.cu"
+__cuda_local_var_52005_7_non_const_iY = (d_combination[iX]); {
+# 35 "Kernel.cu"
+if (((__cuda_local_var_52005_7_non_const_iY == __cuda_local_var_52002_6_non_const_curY) || ((iX + __cuda_local_var_52005_7_non_const_iY) == (__cuda_local_var_52001_6_non_const_curX + __cuda_local_var_52002_6_non_const_curY))) || ((__cuda_local_var_52005_7_non_const_iY - iX) == (__cuda_local_var_52002_6_non_const_curY - __cuda_local_var_52001_6_non_const_curX)))
+# 35 "Kernel.cu"
+{
+# 37 "Kernel.cu"
+_ZN36_INTERNAL_14_Kernel_cpp1_ii_a105f23b9atomicAddEPjj(((unsigned *)(d_result + 0)), 1U);
+# 39 "Kernel.cu"
+} }
+# 40 "Kernel.cu"
+} }
+# 40 "Kernel.cu"
+}
+# 42 "Kernel.cu"
+} 
+# 42 "Kernel.cu"
+}}

@@ -1,0 +1,694 @@
+激活Internet连接 (服务器和已建立连接的)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 127.0.0.1:5941          0.0.0.0:*               LISTEN      1936/teamviewerd
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      1590/dnsmasq    
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      1455/sshd       
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      9520/cupsd      
+tcp        0      0 127.0.0.1:6010          0.0.0.0:*               LISTEN      8207/21         
+tcp        0      0 127.0.0.1:5941          127.0.0.1:44750         ESTABLISHED 1936/teamviewerd
+tcp        0      0 10.0.41.32:45862        213.39.120.132:5938     ESTABLISHED 1936/teamviewerd
+tcp        0      0 127.0.0.1:6013          127.0.0.1:51654         ESTABLISHED 29878/sshd: sx302@n
+tcp        0      0 127.0.0.1:60006         127.0.0.1:6010          ESTABLISHED 5852/xclock     
+tcp        0      0 10.0.41.32:38172        47.104.243.130:5938     ESTABLISHED 1936/teamviewerd
+tcp        0      0 127.0.0.1:6010          127.0.0.1:60006         ESTABLISHED 8207/21         
+tcp        0      0 127.0.0.1:44750         127.0.0.1:5941          ESTABLISHED 27178/TeamViewer_De
+tcp        0      0 127.0.0.1:51640         127.0.0.1:6013          ESTABLISHED 29892/dbus-launch
+tcp        0      0 127.0.0.1:5941          127.0.0.1:37224         ESTABLISHED 1936/teamviewerd
+tcp        0      0 10.0.41.32:22           10.0.49.168:6836        ESTABLISHED 29847/sshd: sx302 [
+tcp        0     84 10.0.41.32:22           10.0.49.168:3996        ESTABLISHED 8151/sshd: sx302 [p
+tcp        0      0 127.0.0.1:51638         127.0.0.1:6013          ESTABLISHED 29892/dbus-launch
+tcp        0      0 127.0.0.1:51654         127.0.0.1:6013          ESTABLISHED 29924/at-spi2-regis
+tcp        0      0 127.0.0.1:6013          127.0.0.1:51640         ESTABLISHED 29878/sshd: sx302@n
+tcp        0      0 127.0.0.1:6013          127.0.0.1:51638         ESTABLISHED 29878/sshd: sx302@n
+tcp        0      0 127.0.0.1:37224         127.0.0.1:5941          ESTABLISHED 2262/TeamViewer 
+tcp6       0      0 :::21                   :::*                    LISTEN      1460/vsftpd     
+tcp6       0      0 :::22                   :::*                    LISTEN      1455/sshd       
+tcp6       0      0 ::1:631                 :::*                    LISTEN      9520/cupsd      
+tcp6       0      0 ::1:6010                :::*                    LISTEN      8207/21         
+udp     1728      0 0.0.0.0:5353            0.0.0.0:*                           1277/avahi-daemon: 
+udp        0      0 0.0.0.0:33726           0.0.0.0:*                           1277/avahi-daemon: 
+udp    46976      0 0.0.0.0:36535           0.0.0.0:*                           1590/dnsmasq    
+udp    80896      0 0.0.0.0:53443           0.0.0.0:*                           1936/teamviewerd
+udp    13056      0 127.0.1.1:53            0.0.0.0:*                           1590/dnsmasq    
+udp    11200      0 0.0.0.0:68              0.0.0.0:*                           1568/dhclient   
+udp        0      0 0.0.0.0:631             0.0.0.0:*                           9521/cups-browsed
+udp6   35328      0 :::5353                 :::*                                1277/avahi-daemon: 
+udp6       0      0 :::40468                :::*                                1277/avahi-daemon: 
+raw6       0      0 :::58                   :::*                    7           1295/NetworkManager
+活跃的UNIX域套接字 (服务器和已建立连接的)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name    路径
+unix  2      [ ]         数据报                35134    2066/systemd        /run/user/1000/systemd/notify
+unix  2      [ ACC ]     流        LISTENING     35135    2066/systemd        /run/user/1000/systemd/private
+unix  2      [ ACC ]     SEQPACKET  LISTENING     40785    1/init              /run/udev/control
+unix  2      [ ACC ]     流        LISTENING     26838    2110/gnome-keyring- /run/user/1000/keyring/control
+unix  2      [ ACC ]     流        LISTENING     2354     1430/Xorg           /tmp/.X11-unix/X0
+unix  2      [ ACC ]     流        LISTENING     26848    2110/gnome-keyring- /run/user/1000/keyring/pkcs11
+unix  2      [ ACC ]     流        LISTENING     26850    2110/gnome-keyring- /run/user/1000/keyring/ssh
+unix  2      [ ACC ]     流        LISTENING     30985    2271/fcitx          /tmp/fcitx-socket-:0
+unix  2      [ ACC ]     流        LISTENING     19723    2418/gnome-session- /tmp/.ICE-unix/2418
+unix  2      [ ACC ]     流        LISTENING     18794    2842/sogou-qimpanel /tmp/sogou-qimpanel-cellsx302
+unix  2      [ ACC ]     流        LISTENING     33017    2842/sogou-qimpanel /tmp/sogou-qimpanelsx302
+unix  2      [ ACC ]     流        LISTENING     19722    2418/gnome-session- @/tmp/.ICE-unix/2418
+unix  2      [ ACC ]     流        LISTENING     19727    2590/pulseaudio     /run/user/1000/pulse/native
+unix  2      [ ACC ]     流        LISTENING     51370    3538/tmux           /tmp/tmux-1000/default
+unix  2      [ ACC ]     流        LISTENING     50844    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  2      [ ACC ]     流        LISTENING     2353     1430/Xorg           @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     流        LISTENING     40765    1/init              /run/systemd/private
+unix  2      [ ACC ]     流        LISTENING     40774    1/init              /run/systemd/fsck.progress
+unix  2      [ ACC ]     流        LISTENING     20710    1295/NetworkManager /var/run/NetworkManager/private-dhcp
+unix  2      [ ACC ]     流        LISTENING     40775    1/init              /run/systemd/journal/stdout
+unix  7      [ ]         数据报                40776    1/init              /run/systemd/journal/socket
+unix  2      [ ]         数据报                40786    1/init              /run/systemd/journal/syslog
+unix  21     [ ]         数据报                3082     1/init              /run/systemd/journal/dev-log
+unix  2      [ ACC ]     流        LISTENING     36190    2376/gpg-agent      /home/sx302/.gnupg/S.gpg-agent
+unix  2      [ ACC ]     流        LISTENING     15924    2116/upstart        @/com/ubuntu/upstart-session/1000/2116
+unix  2      [ ACC ]     流        LISTENING     46334    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  2      [ ACC ]     流        LISTENING     44252    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  2      [ ACC ]     流        LISTENING     5793130  29893/dbus-daemon   @/tmp/dbus-DpiFoQNyZE
+unix  2      [ ACC ]     流        LISTENING     28707    1/init              /var/run/dbus/system_bus_socket
+unix  2      [ ACC ]     流        LISTENING     5796103  29922/dbus-daemon   @/tmp/dbus-DyG1jgnxt0
+unix  2      [ ACC ]     流        LISTENING     28708    1/init              /var/run/avahi-daemon/socket
+unix  2      [ ACC ]     流        LISTENING     28709    1/init              /run/acpid.socket
+unix  2      [ ACC ]     流        LISTENING     28710    1/init              /var/run/cups/cups.sock
+unix  2      [ ACC ]     流        LISTENING     28711    1/init              /run/uuidd/request
+unix  2      [ ACC ]     流        LISTENING     28712    1/init              /run/snapd.socket
+unix  2      [ ACC ]     流        LISTENING     28713    1/init              /run/snapd-snap.socket
+unix  3      [ ]         数据报                40764    1/init              /run/systemd/notify
+unix  2      [ ]         数据报                5761369  11938/su            
+unix  3      [ ]         流        已连接     5644574  9521/cups-browsed   
+unix  3      [ ]         流        已连接     15893    1874/upowerd        
+unix  3      [ ]         流        已连接     1602317  36473/unity-webapps 
+unix  3      [ ]         流        已连接     25897    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     49306    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     48446    2479/dconf-service  
+unix  3      [ ]         流        已连接     42382    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  2      [ ]         流        已连接     5882976  5887/sudo           
+unix  3      [ ]         流        已连接     5784309  29893/dbus-daemon   @/tmp/dbus-DpiFoQNyZE
+unix  3      [ ]         流        已连接     46348    2547/indicator-keyb 
+unix  3      [ ]         流        已连接     30845    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     29960    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     2200     1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5627600  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     46355    2487/compiz         
+unix  3      [ ]         流        已连接     27804    1281/cron           
+unix  3      [ ]         流        已连接     4599203  2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     39218    2579/evolution-sour 
+unix  3      [ ]         流        已连接     26874    2628/indicator-appl 
+unix  3      [ ]         流        已连接     41205    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     52471    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     54806    2672/nautilus       
+unix  3      [ ]         流        已连接     47445    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     36195    2539/indicator-mess 
+unix  3      [ ]         流        已连接     39217    2579/evolution-sour 
+unix  3      [ ]         流        已连接     49256    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     41202    2310/gvfsd          
+unix  3      [ ]         流        已连接     25176    2283/bamfdaemon     
+unix  3      [ ]         流        已连接     40908    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     2485     2830/gvfsd-trash    @/dbus-vfs-daemon/socket-SG8ouNLg
+unix  3      [ ]         流        已连接     20754    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     54798    2590/pulseaudio     
+unix  3      [ ]         流        已连接     35152    2549/indicator-soun 
+unix  3      [ ]         流        已连接     47387    2271/fcitx          
+unix  3      [ ]         流        已连接     47228    1286/dbus-daemon    
+unix  3      [ ]         流        已连接     42105    1286/dbus-daemon    
+unix  3      [ ]         流        已连接     51330    2378/notify-osd     
+unix  3      [ ]         流        已连接     4610087  2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     25906    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     4574068  2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     48475    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     48456    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     41214    2425/unity-panel-se 
+unix  3      [ ]         流        已连接     46354    2590/pulseaudio     
+unix  3      [ ]         流        已连接     41204    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     5693425  2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     5713988  8469/tmux           
+unix  3      [ ]         流        已连接     39225    2735/udisksd        
+unix  3      [ ]         流        已连接     21724    1277/avahi-daemon:  
+unix  3      [ ]         流        已连接     41203    2310/gvfsd          
+unix  3      [ ]         流        已连接     25174    2283/bamfdaemon     
+unix  3      [ ]         流        已连接     40897    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     23681    1277/avahi-daemon:  
+unix  3      [ ]         流        已连接     33018    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     35164    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     34200    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     5784308  29917/at-spi-bus-la 
+unix  3      [ ]         流        已连接     18790    2773/gvfs-afc-volum 
+unix  3      [ ]         流        已连接     51334    2544/indicator-date 
+unix  3      [ ]         流        已连接     23839    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     4595519  1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     39208    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  2      [ ]         数据报                21945    2066/systemd        
+unix  3      [ ]         流        已连接     5734435  27308/gnome-termina 
+unix  3      [ ]         流        已连接     47436    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     23687    1406/lightdm        
+unix  3      [ ]         流        已连接     440      1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     46344    2425/unity-panel-se 
+unix  3      [ ]         数据报                41094    1093/systemd-timesy 
+unix  3      [ ]         流        已连接     5790277  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     35980    1313/accounts-daemo 
+unix  3      [ ]         流        已连接     41195    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     29920    1455/sshd           
+unix  2      [ ]         数据报                21723    1277/avahi-daemon:  
+unix  3      [ ]         流        已连接     5790286  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     26877    2675/polkit-gnome-a 
+unix  3      [ ]         流        已连接     29982    2268/upstart-dbus-b 
+unix  3      [ ]         流        已连接     53498    2487/compiz         
+unix  3      [ ]         流        已连接     49305    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     3922     1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     39221    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     5719372  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     25793    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  2      [ ]         数据报                5765269  12321/su            
+unix  3      [ ]         流        已连接     41244    2729/gvfs-udisks2-v 
+unix  3      [ ]         流        已连接     29995    2676/nm-applet      
+unix  3      [ ]         流        已连接     23846    2544/indicator-date 
+unix  3      [ ]         流        已连接     48383    1460/vsftpd         
+unix  3      [ ]         流        已连接     49291    2401/unity-settings 
+unix  3      [ ]         流        已连接     42387    2378/notify-osd     
+unix  2      [ ]         数据报                41090    1093/systemd-timesy 
+unix  3      [ ]         流        已连接     19719    2298/at-spi-bus-lau 
+unix  2      [ ]         数据报                53277    1296/ModemManager   
+unix  3      [ ]         流        已连接     39197    2378/notify-osd     
+unix  3      [ ]         流        已连接     41217    2676/nm-applet      
+unix  3      [ ]         流        已连接     54838    3031/zeitgeist-fts  
+unix  3      [ ]         流        已连接     37018    2815/gconfd-2       
+unix  3      [ ]         流        已连接     47388    2310/gvfsd          
+unix  3      [ ]         流        已连接     5788313  29924/at-spi2-regis 
+unix  3      [ ]         流        已连接     48497    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     30833    1271/snapd          
+unix  2      [ ]         流        已连接     5644584  9521/cups-browsed   
+unix  3      [ ]         流        已连接     52485    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     39172    2054/lightdm        
+unix  3      [ ]         流        已连接     21725    1408/avahi-daemon:  
+unix  3      [ ]         流        已连接     1602318  36473/unity-webapps 
+unix  3      [ ]         流        已连接     29986    2399/hud-service    
+unix  3      [ ]         流        已连接     39205    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     42395    2540/indicator-blue 
+unix  3      [ ]         流        已连接     21989    2675/polkit-gnome-a 
+unix  3      [ ]         流        已连接     51331    2401/unity-settings 
+unix  3      [ ]         流        已连接     47437    2729/gvfs-udisks2-v 
+unix  3      [ ]         流        已连接     15925    2116/upstart        
+unix  3      [ ]         流        已连接     21729    1277/avahi-daemon:  
+unix  3      [ ]         流        已连接     5796107  29922/dbus-daemon   
+unix  3      [ ]         流        已连接     32140    3024/zeitgeist-daem 
+unix  3      [ ]         流        已连接     52489    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     30839    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     47452    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     392      1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     52479    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     15930    2418/gnome-session- 
+unix  3      [ ]         流        已连接     41209    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     1602319  2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     34240    2732/evolution-cale 
+unix  3      [ ]         流        已连接     2459     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     48447    2479/dconf-service  
+unix  3      [ ]         流        已连接     41215    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     52468    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     47386    2271/fcitx          
+unix  3      [ ]         数据报                41097    1093/systemd-timesy 
+unix  3      [ ]         流        已连接     35141    2116/upstart        @/com/ubuntu/upstart-session/1000/2116
+unix  3      [ ]         流        已连接     5724340  1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     4599204  11332/python3       
+unix  3      [ ]         流        已连接     47489    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     29991    2676/nm-applet      
+unix  3      [ ]         流        已连接     19753    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     32006    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     47227    1286/dbus-daemon    
+unix  3      [ ]         流        已连接     51369    3538/tmux           
+unix  3      [ ]         流        已连接     3919     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     47433    2673/unity-fallback 
+unix  3      [ ]         流        已连接     15928    2401/unity-settings 
+unix  2      [ ]         数据报                21942    2067/(sd-pam)       
+unix  3      [ ]         流        已连接     2458     2590/pulseaudio     /run/user/1000/pulse/native
+unix  3      [ ]         流        已连接     34185    2232/window-stack-b 
+unix  3      [ ]         流        已连接     41213    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     30853    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5784302  29893/dbus-daemon   
+unix  3      [ ]         流        已连接     51354    2881/gvfsd-metadata 
+unix  3      [ ]         流        已连接     34249    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     30838    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     30836    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     5796108  29922/dbus-daemon   
+unix  3      [ ]         流        已连接     23841    2399/hud-service    
+unix  3      [ ]         流        已连接     25178    2308/at-spi2-regist 
+unix  3      [ ]         流        已连接     52502    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     42380    2308/at-spi2-regist 
+unix  3      [ ]         流        已连接     27904    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     5784312  29893/dbus-daemon   @/tmp/dbus-DpiFoQNyZE
+unix  3      [ ]         流        已连接     5784307  29917/at-spi-bus-la 
+unix  3      [ ]         流        已连接     32129    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     34248    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     27913    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     40896    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  2      [ ]         数据报                32113    2735/udisksd        
+unix  3      [ ]         流        已连接     34232    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     23844    2399/hud-service    
+unix  3      [ ]         流        已连接     31989    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     46346    2547/indicator-keyb 
+unix  3      [ ]         流        已连接     5650763  1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     4592334  11332/python3       
+unix  3      [ ]         流        已连接     52501    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     1603242  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     41245    2729/gvfs-udisks2-v 
+unix  3      [ ]         流        已连接     52488    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     48433    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     54800    2673/unity-fallback 
+unix  3      [ ]         流        已连接     5784301  29893/dbus-daemon   
+unix  3      [ ]         流        已连接     4589279  11332/python3       
+unix  3      [ ]         流        已连接     36204    2672/nautilus       
+unix  3      [ ]         流        已连接     5713989  8469/tmux           
+unix  3      [ ]         流        已连接     15954    2773/gvfs-afc-volum 
+unix  3      [ ]         流        已连接     30861    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     25202    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     31990    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     25177    2308/at-spi2-regist 
+unix  3      [ ]         流        已连接     37050    3232/deja-dup-monit 
+unix  3      [ ]         流        已连接     52469    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     18783    2766/evolution-addr 
+unix  3      [ ]         流        已连接     53344    2214/upstart-udev-b 
+unix  3      [ ]         流        已连接     5705841  3538/tmux           /tmp/tmux-1000/default
+unix  3      [ ]         流        已连接     5644572  9521/cups-browsed   
+unix  3      [ ]         流        已连接     15959    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     23843    2399/hud-service    
+unix  3      [ ]         流        已连接     41197    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     24888    1868/rtkit-daemon   
+unix  3      [ ]         流        已连接     37019    2815/gconfd-2       
+unix  3      [ ]         流        已连接     34195    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     42381    2308/at-spi2-regist 
+unix  3      [ ]         流        已连接     5716447  1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     34251    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     20752    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     21966    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     4592336  11332/python3       
+unix  2      [ ]         数据报                50187    567/systemd-journal 
+unix  3      [ ]         流        已连接     5616232  9520/cupsd          
+unix  3      [ ]         流        已连接     46351    2628/indicator-appl 
+unix  3      [ ]         流        已连接     52478    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     23827    1430/Xorg           @/tmp/.X11-unix/X0
+unix  2      [ ]         数据报                47225    1286/dbus-daemon    
+unix  3      [ ]         流        已连接     51336    2579/evolution-sour 
+unix  3      [ ]         流        已连接     5710486  1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     5713987  8469/tmux           
+unix  2      [ ]         流        已连接     5644578  9521/cups-browsed   
+unix  3      [ ]         流        已连接     5713762  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     4607152  1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     32133    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     5622334  9561/dbus           
+unix  3      [ ]         流        已连接     49322    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     19720    2308/at-spi2-regist 
+unix  3      [ ]         流        已连接     5650759  1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     25899    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     50849    2262/TeamViewer     
+unix  3      [ ]         流        已连接     32998    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     25907    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     25898    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     26847    2110/gnome-keyring- 
+unix  3      [ ]         流        已连接     37042    3010/zeitgeist-data 
+unix  3      [ ]         流        已连接     47231    1433/polkitd        
+unix  3      [ ]         流        已连接     2220     1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     2212     1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     2203     1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5715592  27308/gnome-termina 
+unix  3      [ ]         流        已连接     53434    2425/unity-panel-se 
+unix  3      [ ]         流        已连接     4599205  11332/python3       
+unix  3      [ ]         流        已连接     27954    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     25189    2401/unity-settings 
+unix  3      [ ]         流        已连接     30863    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     54801    2675/polkit-gnome-a 
+unix  3      [ ]         流        已连接     21960    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     46342    2418/gnome-session- 
+unix  3      [ ]         流        已连接     30843    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     51339    2801/evolution-addr 
+unix  3      [ ]         流        已连接     18784    2766/evolution-addr 
+unix  3      [ ]         流        已连接     19725    2590/pulseaudio     
+unix  3      [ ]         流        已连接     379      1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     52447    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     15896    1874/upowerd        
+unix  3      [ ]         流        已连接     34194    2487/compiz         
+unix  3      [ ]         流        已连接     5616237  9520/cupsd          
+unix  3      [ ]         流        已连接     37014    2676/nm-applet      
+unix  3      [ ]         流        已连接     53467    2418/gnome-session- @/tmp/.ICE-unix/2418
+unix  3      [ ]         流        已连接     42245    1445/colord         
+unix  3      [ ]         流        已连接     27922    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     21953    2116/upstart        
+unix  3      [ ]         流        已连接     5709156  2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     1619114  36473/unity-webapps 
+unix  3      [ ]         流        已连接     48455    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     5650755  1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     30000    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     2462     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     42396    2547/indicator-keyb 
+unix  3      [ ]         流        已连接     39224    2703/mission-contro 
+unix  3      [ ]         流        已连接     50901    2554/indicator-sess 
+unix  3      [ ]         流        已连接     21936    2066/systemd        
+unix  3      [ ]         流        已连接     5796114  29924/at-spi2-regis 
+unix  3      [ ]         流        已连接     25196    2651/goa-daemon     
+unix  2      [ ]         数据报                5882979  5887/sudo           
+unix  3      [ ]         流        已连接     48423    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     5650757  1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     35160    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     23845    2399/hud-service    
+unix  3      [ ]         流        已连接     52470    1/init              /run/systemd/journal/stdout
+unix  2      [ ]         流        已连接     5639559  2553/indicator-prin 
+unix  3      [ ]         流        已连接     35165    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     25909    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     54803    2487/compiz         
+unix  3      [ ]         流        已连接     42386    2378/notify-osd     
+unix  3      [ ]         流        已连接     5790278  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5686232  27308/gnome-termina 
+unix  3      [ ]         流        已连接     51368    3538/tmux           
+unix  3      [ ]         流        已连接     18789    2773/gvfs-afc-volum 
+unix  3      [ ]         流        已连接     15956    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     25902    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     5790285  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     39211    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     3912     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     35177    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     34945    1296/ModemManager   
+unix  3      [ ]         流        已连接     34231    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     52500    1/init              /run/systemd/journal/stdout
+unix  2      [ ]         数据报                15800    1568/dhclient       
+unix  3      [ ]         流        已连接     1603241  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     46350    2541/indicator-powe 
+unix  3      [ ]         流        已连接     35153    2554/indicator-sess 
+unix  3      [ ]         流        已连接     18616    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     34250    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     21961    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     2197     1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     53495    2418/gnome-session- @/tmp/.ICE-unix/2418
+unix  3      [ ]         流        已连接     5796113  29924/at-spi2-regis 
+unix  3      [ ]         流        已连接     26902    2830/gvfsd-trash    
+unix  3      [ ]         流        已连接     32130    2801/evolution-addr 
+unix  3      [ ]         流        已连接     31991    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     23842    2399/hud-service    
+unix  3      [ ]         流        已连接     23828    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         数据报                41096    1093/systemd-timesy 
+unix  2      [ ]         数据报                35977    1301/acpid          
+unix  3      [ ]         流        已连接     32131    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     5789034  29917/at-spi-bus-la 
+unix  3      [ ]         流        已连接     49304    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     39204    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     47232    1445/colord         
+unix  3      [ ]         数据报                41095    1093/systemd-timesy 
+unix  3      [ ]         流        已连接     41216    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     42388    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     18778    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     25904    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     31985    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     40895    2219/dbus-daemon    
+unix  3      [ ]         流        已连接     45256    2487/compiz         
+unix  3      [ ]         流        已连接     411      1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     5688180  8151/sshd: sx302 [p 
+unix  3      [ ]         流        已连接     3918     2298/at-spi-bus-lau 
+unix  3      [ ]         流        已连接     34281    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     25905    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     38119    2549/indicator-soun 
+unix  3      [ ]         流        已连接     31974    2329/fcitx-dbus-wat 
+unix  3      [ ]         流        已连接     49266    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     29092    2399/hud-service    
+unix  3      [ ]         流        已连接     25209    2648/gnome-software 
+unix  3      [ ]         流        已连接     2482     2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     31009    2262/TeamViewer     
+unix  3      [ ]         流        已连接     23849    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     55362    2399/hud-service    
+unix  3      [ ]         流        已连接     5735439  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     27950    2672/nautilus       
+unix  3      [ ]         流        已连接     34256    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     52551    2785/gvfs-mtp-volum 
+unix  3      [ ]         流        已连接     25840    1/init              /run/systemd/journal/stdout
+unix  2      [ ]         数据报                53465    2110/gnome-keyring- 
+unix  3      [ ]         流        已连接     25810    2283/bamfdaemon     
+unix  3      [ ]         流        已连接     2198     1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     49321    2881/gvfsd-metadata 
+unix  3      [ ]         流        已连接     28742    1/init              
+unix  3      [ ]         流        已连接     19667    1922/whoopsie       
+unix  3      [ ]         流        已连接     52552    2842/sogou-qimpanel 
+unix  2      [ ]         数据报                45282    2590/pulseaudio     
+unix  3      [ ]         流        已连接     40923    2672/nautilus       
+unix  3      [ ]         流        已连接     53460    2549/indicator-soun 
+unix  3      [ ]         流        已连接     39148    1590/dnsmasq        
+unix  3      [ ]         流        已连接     44131    1406/lightdm        
+unix  3      [ ]         流        已连接     45188    1922/whoopsie       
+unix  3      [ ]         数据报                15556    605/systemd-udevd   
+unix  3      [ ]         流        已连接     27919    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     33960    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5688179  8207/21             
+unix  3      [ ]         流        已连接     3946     2795/gvfs-gphoto2-v 
+unix  3      [ ]         流        已连接     25843    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     48448    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     52480    2262/TeamViewer     
+unix  3      [ ]         流        已连接     5787147  29878/sshd: sx302@n 
+unix  3      [ ]         流        已连接     40922    2766/evolution-addr 
+unix  3      [ ]         流        已连接     404      2590/pulseaudio     /run/user/1000/pulse/native
+unix  3      [ ]         流        已连接     31977    2262/TeamViewer     
+unix  3      [ ]         流        已连接     44230    2268/upstart-dbus-b 
+unix  3      [ ]         流        已连接     5723527  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     15547    605/systemd-udevd   
+unix  3      [ ]         流        已连接     5729338  2418/gnome-session- @/tmp/.ICE-unix/2418
+unix  2      [ ]         数据报                31020    2418/gnome-session- 
+unix  3      [ ]         流        已连接     22825    2830/gvfsd-trash    @/dbus-vfs-daemon/socket-UHiKH25L
+unix  3      [ ]         流        已连接     3947     2795/gvfs-gphoto2-v 
+unix  3      [ ]         流        已连接     27948    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     25842    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     32147    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     23868    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     49325    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     38133    2703/mission-contro 
+unix  3      [ ]         流        已连接     402      2590/pulseaudio     /run/user/1000/pulse/native
+unix  3      [ ]         流        已连接     31972    2276/upstart-file-b 
+unix  3      [ ]         流        已连接     2473     2487/compiz         
+unix  3      [ ]         流        已连接     27955    2487/compiz         
+unix  3      [ ]         流        已连接     3930     2785/gvfs-mtp-volum 
+unix  3      [ ]         流        已连接     23850    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     52503    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     27921    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     5693417  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     30005    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     34253    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     46356    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     25841    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     44327    3154/update-notifie 
+unix  3      [ ]         流        已连接     30001    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     38128    2701/goa-identity-s 
+unix  3      [ ]         流        已连接     31975    2262/TeamViewer     
+unix  3      [ ]         流        已连接     40904    2262/TeamViewer     
+unix  3      [ ]         流        已连接     34188    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     30991    2540/indicator-blue 
+unix  3      [ ]         流        已连接     5652677  9521/cups-browsed   
+unix  3      [ ]         流        已连接     25895    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     27941    2675/polkit-gnome-a 
+unix  3      [ ]         流        已连接     52456    2267/upstart-dbus-b 
+unix  3      [ ]         流        已连接     5796115  29922/dbus-daemon   @/tmp/dbus-DyG1jgnxt0
+unix  3      [ ]         流        已连接     25893    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     27909    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     51317    2116/upstart        @/com/ubuntu/upstart-session/1000/2116
+unix  2      [ ]         数据报                40866    1273/systemd-logind 
+unix  3      [ ]         流        已连接     49298    2539/indicator-mess 
+unix  3      [ ]         流        已连接     29091    2401/unity-settings 
+unix  3      [ ]         流        已连接     30990    2399/hud-service    
+unix  3      [ ]         流        已连接     3938     2790/gvfs-goa-volum 
+unix  2      [ ]         数据报                25892    1433/polkitd        
+unix  2      [ ]         数据报                2359     1295/NetworkManager 
+unix  3      [ ]         流        已连接     39203    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     2221     1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     30987    2262/TeamViewer     
+unix  3      [ ]         流        已连接     28922    1/init              /run/systemd/journal/stdout
+unix  2      [ ]         数据报                5688175  8151/sshd: sx302 [p 
+unix  3      [ ]         流        已连接     41237    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     48421    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     33008    2790/gvfs-goa-volum 
+unix  3      [ ]         流        已连接     38129    2701/goa-identity-s 
+unix  3      [ ]         流        已连接     34186    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  2      [ ]         数据报                39154    1590/dnsmasq        
+unix  3      [ ]         流        已连接     49230    1295/NetworkManager 
+unix  3      [ ]         流        已连接     5730333  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     21967    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     5735438  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5648543  9532/dbus           
+unix  3      [ ]         流        已连接     34252    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     419      2701/goa-identity-s 
+unix  3      [ ]         流        已连接     42459    2673/unity-fallback 
+unix  3      [ ]         流        已连接     408      1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     47446    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     41009    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     49264    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     5735442  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     52534    2654/evolution-cale 
+unix  3      [ ]         流        已连接     25915    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     3948     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     53485    2748/evolution-cale 
+unix  3      [ ]         流        已连接     44160    1936/teamviewerd    
+unix  3      [ ]         流        已连接     50286    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5710494  1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     49314    2748/evolution-cale 
+unix  3      [ ]         流        已连接     29116    2703/mission-contro 
+unix  3      [ ]         数据报                15555    605/systemd-udevd   
+unix  3      [ ]         流        已连接     20749    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     27943    2651/goa-daemon     
+unix  3      [ ]         流        已连接     52524    2553/indicator-prin 
+unix  3      [ ]         流        已连接     48518    2703/mission-contro 
+unix  3      [ ]         流        已连接     44288    2553/indicator-prin 
+unix  3      [ ]         流        已连接     27917    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     47229    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     5730336  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     2474     2487/compiz         
+unix  3      [ ]         流        已连接     34255    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     412      2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     52458    2267/upstart-dbus-b 
+unix  3      [ ]         流        已连接     48529    2648/gnome-software 
+unix  3      [ ]         流        已连接     52454    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5723531  27308/gnome-termina 
+unix  3      [ ]         流        已连接     54536    1295/NetworkManager 
+unix  3      [ ]         流        已连接     31030    3024/zeitgeist-daem 
+unix  3      [ ]         流        已连接     35158    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     52528    2651/goa-daemon     
+unix  3      [ ]         流        已连接     18750    2271/fcitx          
+unix  3      [ ]         流        已连接     5787148  29847/sshd: sx302 [ 
+unix  3      [ ]         流        已连接     34282    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     48521    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     25812    2418/gnome-session- 
+unix  3      [ ]         流        已连接     29085    2378/notify-osd     
+unix  3      [ ]         流        已连接     49265    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     20744    2262/TeamViewer     
+unix  3      [ ]         流        已连接     19563    1406/lightdm        
+unix  3      [ ]         流        已连接     3939     2790/gvfs-goa-volum 
+unix  3      [ ]         流        已连接     38130    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     3958     2830/gvfsd-trash    @/dbus-vfs-daemon/socket-td9f5HPl
+unix  3      [ ]         流        已连接     34201    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     27831    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     2243     1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     38095    1093/systemd-timesy 
+unix  3      [ ]         流        已连接     34260    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5693423  27308/gnome-termina 
+unix  3      [ ]         流        已连接     15963    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     3932     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     33024    3017/sh             
+unix  3      [ ]         流        已连接     18785    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     40872    1273/systemd-logind 
+unix  3      [ ]         流        已连接     2467     2487/compiz         
+unix  2      [ ]         数据报                3107     1/init              
+unix  3      [ ]         流        已连接     34254    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     417      2703/mission-contro 
+unix  3      [ ]         流        已连接     20750    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     51316    2116/upstart        @/com/ubuntu/upstart-session/1000/2116
+unix  3      [ ]         流        已连接     45265    2672/nautilus       
+unix  3      [ ]         流        已连接     48516    2648/gnome-software 
+unix  3      [ ]         流        已连接     21959    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     2356     1430/Xorg           
+unix  3      [ ]         流        已连接     29083    2262/TeamViewer     
+unix  3      [ ]         流        已连接     5710487  1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     2457     2541/indicator-powe 
+unix  3      [ ]         流        已连接     49303    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     25831    2590/pulseaudio     
+unix  3      [ ]         流        已连接     40905    2262/TeamViewer     
+unix  3      [ ]         流        已连接     5723526  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     29086    2378/notify-osd     
+unix  3      [ ]         流        已连接     5735441  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     34233    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     25210    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     33032    3031/zeitgeist-fts  
+unix  3      [ ]         流        已连接     41239    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     27912    1430/Xorg           @/tmp/.X11-unix/X0
+unix  2      [ ]         数据报                5755257  12115/su            
+unix  3      [ ]         流        已连接     47490    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     5650760  1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     27903    2291/dbus-daemon    
+unix  3      [ ]         数据报                31930    1/init              
+unix  3      [ ]         流        已连接     34279    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     30984    2271/fcitx          
+unix  3      [ ]         流        已连接     51323    2116/upstart        @/com/ubuntu/upstart-session/1000/2116
+unix  3      [ ]         流        已连接     5679910  2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     27939    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     47442    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     5627601  1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     27944    2654/evolution-cale 
+unix  3      [ ]         流        已连接     52533    2654/evolution-cale 
+unix  3      [ ]         流        已连接     32141    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     33023    3017/sh             
+unix  3      [ ]         流        已连接     44260    2262/TeamViewer     
+unix  3      [ ]         流        已连接     25903    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     20769    2795/gvfs-gphoto2-v 
+unix  3      [ ]         流        已连接     3931     2785/gvfs-mtp-volum 
+unix  3      [ ]         流        已连接     416      2703/mission-contro 
+unix  3      [ ]         流        已连接     44313    2651/goa-daemon     
+unix  3      [ ]         流        已连接     52522    2553/indicator-prin 
+unix  3      [ ]         流        已连接     48522    2842/sogou-qimpanel 
+unix  3      [ ]         流        已连接     3940     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     3913     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     18612    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     49320    2881/gvfsd-metadata 
+unix  3      [ ]         流        已连接     15790    1296/ModemManager   
+unix  3      [ ]         流        已连接     52466    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     27902    2291/dbus-daemon    
+unix  3      [ ]         流        已连接     33031    3031/zeitgeist-fts  
+unix  3      [ ]         流        已连接     38134    2729/gvfs-udisks2-v 
+unix  3      [ ]         流        已连接     48476    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     382      1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     42389    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  2      [ ]         数据报                15549    605/systemd-udevd   
+unix  3      [ ]         流        已连接     25912    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     20742    2262/TeamViewer     
+unix  3      [ ]         流        已连接     19671    1922/whoopsie       
+unix  3      [ ]         流        已连接     52529    2651/goa-daemon     
+unix  3      [ ]         流        已连接     52467    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     45257    2553/indicator-prin 
+unix  3      [ ]         流        已连接     44258    2283/bamfdaemon     
+unix  3      [ ]         流        已连接     40894    2219/dbus-daemon    
+unix  3      [ ]         流        已连接     31986    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     34192    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     30004    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     34257    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     3909     2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     34280    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     31979    2262/TeamViewer     
+unix  3      [ ]         流        已连接     30983    2271/fcitx          
+unix  3      [ ]         流        已连接     25811    2317/gvfsd-fuse     
+unix  3      [ ]         流        已连接     47230    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     18615    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     25953    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     20762    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     20745    2262/TeamViewer     
+unix  3      [ ]         流        已连接     44316    2830/gvfsd-trash    @/dbus-vfs-daemon/socket-BShw8ual
+unix  3      [ ]         流        已连接     3917     2298/at-spi-bus-lau 
+unix  3      [ ]         流        已连接     40906    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     38161    3154/update-notifie 
+unix  3      [ ]         流        已连接     25204    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     44256    2305/dbus-daemon    
+unix  3      [ ]         流        已连接     32954    1313/accounts-daemo 
+unix  3      [ ]         流        已连接     5710493  1430/Xorg           @/tmp/.X11-unix/X0
+unix  2      [ ]         数据报                29035    2054/lightdm        
+unix  2      [ ]         数据报                5773133  29847/sshd: sx302 [ 
+unix  3      [ ]         流        已连接     20763    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     42392    1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     27936    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     5693424  27308/gnome-termina 
+unix  3      [ ]         流        已连接     42461    2672/nautilus       
+unix  3      [ ]         流        已连接     52550    2732/evolution-cale 
+unix  3      [ ]         流        已连接     48531    3154/update-notifie 
+unix  3      [ ]         流        已连接     27920    2291/dbus-daemon    @/tmp/dbus-wfy3XKIHsk
+unix  3      [ ]         流        已连接     40865    1273/systemd-logind 
+unix  3      [ ]         流        已连接     33025    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     5693418  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     2437     2479/dconf-service  
+unix  3      [ ]         数据报                31929    1/init              
+unix  3      [ ]         流        已连接     5782147  29924/at-spi2-regis 
+unix  3      [ ]         流        已连接     29146    2648/gnome-software 
+unix  3      [ ]         流        已连接     25894    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     53462    2549/indicator-soun 
+unix  3      [ ]         流        已连接     44257    2305/dbus-daemon    
+unix  3      [ ]         流        已连接     52455    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     19721    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     5726577  1286/dbus-daemon    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     20748    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     55357    2262/TeamViewer     
+unix  3      [ ]         流        已连接     29998    1430/Xorg           @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     25896    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     25198    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     48422    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     42376    2305/dbus-daemon    @/tmp/dbus-FFEFlONOTu
+unix  3      [ ]         流        已连接     34261    1/init              /run/systemd/journal/stdout
+unix  3      [ ]         流        已连接     5708524  27178/TeamViewer_De 
+unix  3      [ ]         流        已连接     31058    3232/deja-dup-monit 
+unix  3      [ ]         流        已连接     19750    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     41208    2219/dbus-daemon    @/tmp/dbus-fWWyXv0lYJ
+unix  3      [ ]         流        已连接     46272    1286/dbus-daemon    /var/run/dbus/system_bus_socket

@@ -1,0 +1,65 @@
+from file: ../data_format2_rand/100000.txt  read 1 rows. use Device 0 
+GPU is OK!
+Device in use =0 
+ [1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+from file: ../data_format2_rand/100000.txt  read 1 rows. use Device 1 
+GPU is OK!
+Device in use =1 
+ [1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m[ 0]      100000	     66462	       137	    137746[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 0]      100000	     66462	       141	    141352[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 1]      100000	     66462	       125	    125684[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 1]      100000	     66462	       126	    126726[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 2]      100000	     66462	       114	    114341[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 2]      100000	     66462	       118	    118100[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 3]      100000	     66462	       108	    108558[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 3]      100000	     66462	       111	    111967[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 4]      100000	     66462	       102	    102091[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 4]      100000	     66462	       102	    102808[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 5]      100000	     66462	        95	     95282[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 5]      100000	     66462	        97	     97553[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 6]      100000	     66462	        93	     93218[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 6]      100000	     66462	        93	     93539[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 7]      100000	     66462	        90	     90807[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 7]      100000	     66462	        91	     91960[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 8]      100000	     66462	        90	     90779[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 8]      100000	     66462	        91	     91446[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 9]      100000	     66462	        90	     90731[0m	cpu == GPU, Check Pass!
+[1;31;40mAVER      100000	  66462.00	    104.40	 104923.70	
+[0m[1;31;40m[ 9]      100000	     66462	        92	     92888[0m	cpu == GPU, Check Pass!
+[1;31;40mAVER      100000	  66462.00	    106.20	 106833.90	
+[0mfrom file: ../data_format2_rand/100000.txt  read 1 rows. use Device 1 
+GPU is OK!
+from file: ../data_format2_rand/100000.txt  read 1 rows. use Device 0 
+GPU is OK!
+Device in use =1 
+ [1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+Device in use =0 
+ [1;31;40m     Queen	 conflicts	  time(ms)	  time(us)
+[0m     -----	 ---------	  --------
+[1;31;40m[ 0]      100000	     66462	       139	    139706[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 0]      100000	     66462	       141	    141476[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 1]      100000	     66462	       125	    125698[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 1]      100000	     66462	       129	    129667[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 2]      100000	     66462	       116	    116115[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 2]      100000	     66462	       120	    120937[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 3]      100000	     66462	       110	    110107[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 3]      100000	     66462	       113	    113562[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 4]      100000	     66462	       102	    102028[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 4]      100000	     66462	       103	    103355[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 5]      100000	     66462	        96	     96482[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 5]      100000	     66462	        99	     99898[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 6]      100000	     66462	        93	     93163[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 6]      100000	     66462	        93	     93629[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 7]      100000	     66462	        91	     91099[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 7]      100000	     66462	        92	     92412[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 8]      100000	     66462	        90	     90912[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 8]      100000	     66462	        91	     91387[0m	cpu == GPU, Check Pass!
+[1;31;40m[ 9]      100000	     66462	        90	     90803[0m	cpu == GPU, Check Pass!
+[1;31;40mAVER      100000	  66462.00	    105.20	 105611.30	
+[0m[1;31;40m[ 9]      100000	     66462	        92	     92822[0m	cpu == GPU, Check Pass!
+[1;31;40mAVER      100000	  66462.00	    107.30	 107914.50	
+[0m

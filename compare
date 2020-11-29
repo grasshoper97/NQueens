@@ -1,0 +1,2 @@
+2018.11.16
+use min_conflict genereate valid chessboard, 4_100,  1k_1W,  1W_9W  and use cpu/ GPU check conflicts of every resulotion is 0.

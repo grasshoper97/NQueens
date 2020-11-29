@@ -1,0 +1,9 @@
+2019年 05月 16日 星期四 12:17:52 CST
+queens = 86000 , popu_num = 2 
+GPU is OK!
+Device in use =0 
+ GPU is OK!
+Device in use =1 
+ 1GPU: 0 s 195 ms  195416 us 	2GPU:  0 s  97 ms  97649 us
+right count = 2, wrong count = 0,  aver conflicts= 57192.500000
+ 
