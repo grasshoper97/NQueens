@@ -109,6 +109,3 @@ gpu_pair_gpu_gen
 2019.4 15 
 Dual_gpu_1_Queen_format2
 直接定义两个流，不用 simpleMultiGPU 结构体，实现双GPU并行。
-ok
-ok2
-cannot

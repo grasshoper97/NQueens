@@ -95,16 +95,16 @@ set visualbell
 let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
 let v:this_session=expand("<sfile>:p")
 silent only
-cd ~/test/NQueen/CheckOne_Datafile_compare
+cd ~/Lean/test/NQueen/CheckOne_Datafile_compare
 if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
   let s:wipebuf = bufnr('%')
 endif
 set shortmess=aoO
-badd +0 ~/test/NQueen/CheckOne_Datafile_compare/readme.txt
+badd +0 ~/Lean/test/NQueen/CheckOne_Datafile_compare/readme.txt
 argglobal
 silent! argdel *
 argadd readme.txt
-edit ~/test/NQueen/CheckOne_Datafile_compare/readme.txt
+edit ~/Lean/test/NQueen/CheckOne_Datafile_compare/readme.txt
 set splitbelow splitright
 set nosplitbelow
 set nosplitright
@@ -222,11 +222,11 @@ setlocal nowinfixheight
 setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
-let s:l = 86 - ((19 * winheight(0) + 17) / 35)
+let s:l = 111 - ((25 * winheight(0) + 14) / 29)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-86
+111
 normal! 0
 tabnext 1
 if exists('s:wipebuf')
